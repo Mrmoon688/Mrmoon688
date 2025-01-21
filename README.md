@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrmoon688
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Web development
+- 🌱 I’m currently learning ...Web development, programming
 - 💞️ I’m looking to collaborate on ...Programming
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
